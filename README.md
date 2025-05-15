@@ -1,5 +1,11 @@
 # 🏠 Rocket Mortgage Data Challenge Dashboard
 
+<p align="center">
+  <img src="https://cloudfront-us-east-1.images.arcpublishing.com/bellmediainc/IVXK5BDZRA7A2GHTIWVTFZ3PUQ.jpg" alt="Airbnb Logo" width="400"/>
+</p>
+
+
+
 This project presents a Tableau-based interactive dashboard built for the Rocket Mortgage Data Challenge. It highlights customer trends, key metrics, and actionable business insights through effective visual storytelling.
 
 ## 🔍 Project Objective
